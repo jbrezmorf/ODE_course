@@ -6,13 +6,13 @@
 
 ## Sylabus
 
-1. [lecture](./jupyter_notebooks/01 - Introduction and Physics Motivation.ipynb) Clasification, basic methods, physicaly motivated examples
-2. [lecture](./jupyter_notebooks/02 - Theory for Systems of ODE.ipynb) Basic theory of ODE systems
-3. [lecture](./jupyter_notebooks/03 - Linear Systems.ipynb) Linear ODE systems
-4. [lecture](./jupyter_notebooks/04 - Numerical Methods - Explicit Euler.ipynb) Euler method, clasification of errors
-5. [lecture](./jupyter_notebooks/05 - Implicit Euler Method.ipynb) Absolute stability, Implicit Euler method
-6. [lecture](./jupyter_notebooks/06 - Runge-Kuta Methods.ipynb) Runge-Kutta methods
-7. [lecture](./jupyter_notebooks/07 - Multistep Methods and Beyond.ipynb) Multi-step methods and more
+1. [lecture](<./jupyter notebooks/01 - Introduction and Physics Motivation.ipynb>) Clasification, basic methods, physicaly motivated examples
+2. [lecture](<./jupyter notebooks/02 - Theory for Systems of ODE.ipynb>) Basic theory of ODE systems
+3. [lecture](<./jupyter notebooks/03 - Linear Systems.ipynb>) Linear ODE systems
+4. [lecture](<./jupyter notebooks/04 - Numerical Methods - Explicit Euler.ipynb>) Euler method, clasification of errors
+5. [lecture](<./jupyter notebooks/05 - Implicit Euler Method.ipynb>) Absolute stability, Implicit Euler method
+6. [lecture](<./jupyter notebooks/06 - Runge-Kuta Methods.ipynb>) Runge-Kutta methods
+7. [lecture](<./jupyter notebooks/07 - Multistep Methods and Beyond.ipynb>) Multi-step methods and more
 
 ## Directories
 
