@@ -19,6 +19,10 @@
 - `jupyter notebooks` : translation of the Czech text book with added Python plots and calculations
 - `skripta` : the Czech text book
 
+## Live version of the notebooks
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbrezmorf/ODE_course/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
+
 ## Getting Jupyter Notebooks to Live
 Only static render of the Jupyter notebooks is presented on GitHub. To make them interactive
 install [Anaconda](https://www.anaconda.com/download) and then open the lecture notebooks using the JupyterLab application from the Anaconda navigator.
