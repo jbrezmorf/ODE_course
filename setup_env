@@ -39,4 +39,4 @@ fi
 
 
 # REgister as a Jupyter kernel
-python3 -m ipykernel install --user --name=hlavo_env --display-name "ODE course Environment"
+python3 -m ipykernel install --user --name=ODE_env --display-name "ODE course Environment"
