@@ -1,0 +1,17 @@
+# "Temporary" dependencies for developing, 
+# for final dependencies use pyproject.toml
+
+voila 
+pdf2image
+ipywidgets 
+nbformat
+pandas
+seaborn
+matplotlib
+scipy
+numpy
+sympy
+
+ipykernel
+ipympl
+jupyter
