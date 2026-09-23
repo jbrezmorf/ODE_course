@@ -11,7 +11,9 @@ matplotlib
 scipy
 numpy
 sympy
+bokeh
 
 ipykernel
 ipympl
 jupyter
+jupyterlab_widgets
