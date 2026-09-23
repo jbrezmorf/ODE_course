@@ -21,7 +21,9 @@
 
 ## Live version of the notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbrezmorf/ODE_course/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
+[//]: #([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbrezmorf/ODE_course/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb))
+
+[![Binder](https://binderhub.cloud.e-infra.cz/badge_logo.svg)](https://binderhub.cloud.e-infra.cz/v2/gh/jbrezmorf/ODE_course/main?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
 
 ## Getting Jupyter Notebooks to Live
 Only static render of the Jupyter notebooks is presented on GitHub. To make them interactive
